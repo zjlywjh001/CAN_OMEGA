@@ -3,7 +3,7 @@ Ultimate CAN Bus tool for Car hacking.
 
 ## Features
 Support full OBD-II Features including followings:
-High-Speed CAN Bus RX&TX   
+High-Speed & Low Speed CAN Bus RX&TX   
 CAN Packet Analysis  
 SAE J1850 PWM VPW communication  
 K line & L line communication  
