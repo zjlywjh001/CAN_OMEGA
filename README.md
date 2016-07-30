@@ -10,5 +10,8 @@ K line & L line communication
 
 Support for incomming CAN FD. (use MCP2517FD in place of MCP2515)  
 
+## PCB 3D View
+![image](https://github.com/zjlywjh001/CAN_OMEGA/raw/master/hardware/photos/pcb_3d.png)
+
 ## License  
 MIT License  
