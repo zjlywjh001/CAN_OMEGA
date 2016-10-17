@@ -20,6 +20,10 @@ Support for incomming CAN FD. (use MCP2517FD in place of MCP2515)
 ## Firmware Sourcecode Repository
 See here: [https://github.com/zjlywjh001/CAN_Omega_Firmware](https://github.com/zjlywjh001/CAN_Omega_Firmware)
 
+Notice: 
+Firmware should work with the bootloader, but the source code of the bootloader can't be released due to some license issues.
+So I can only release the bootloader in binary.
+
 ## A cross platform GUI tool.
 See here: [https://github.com/zjlywjh001/CAN_OMEGA_Tools](https://github.com/zjlywjh001/CAN_OMEGA_Tools)
 
