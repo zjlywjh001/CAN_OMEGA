@@ -3,7 +3,7 @@ Ultimate CAN Bus tool for Car hacking.
 CAN_Omega firmware is compatible with USBTin protocol now.
 
 ## Features
-Support full OBD-II Features including followings: 
+Support full OBD-II Features including followings:    
 ISO15765 CAN250Kbps 11bit   
 ISO15765 CAN250Kbps 29bit   
 ISO15765 CAN500Kbps 11bit   
