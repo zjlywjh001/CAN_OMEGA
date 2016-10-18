@@ -3,11 +3,15 @@ Ultimate CAN Bus tool for Car hacking.
 CAN_Omega firmware is compatible with USBTin protocol now.
 
 ## Features
-Support full OBD-II Features including followings:   
-High-Speed & Low Speed CAN Bus RX&TX   
-CAN Packet Analysis  
-SAE J1850 PWM VPW communication  
-K line & L line communication  
+Support full OBD-II Features including followings: 
+ISO15765 CAN250Kbps 11bit
+ISO15765 CAN250Kbps 29bit
+ISO15765 CAN500Kbps 11bit
+ISO15765 CAN500Kbps 29bit
+ISO14230 KWP2000 Fast init
+SAE J1850 PWM
+SAE J1850 VPW
+CAN Packet Analysis
 
 Support for incomming CAN FD. (use MCP2517FD in place of MCP2515)  
 
