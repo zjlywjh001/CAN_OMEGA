@@ -27,7 +27,7 @@ Support for incomming CAN FD. (use MCP2517FD in place of MCP2515)
 ## Drivers
 CAN Omega use CP2102 chip to convert UART to USB.    
 For Linux, Windows >8 no additional driver is needed!     
-CAN Omega will be automatically detected as virtual serial port.
+CAN Omega will be automatically detected as virtual serial port.   
 Device is mapped to serial port "/dev/ttyUSBx" (Linux) or "COMx" (Windows).      
 For Windows<8 and Mac OS, you can get the corresponding drivers here: 
 [http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)    
