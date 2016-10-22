@@ -18,7 +18,7 @@ Multi-Frame Support
 Support for incomming CAN FD. (use MCP2517FD in place of MCP2515)  
 
 ## PCB Photo
-![image](https://github.com/zjlywjh001/CAN_OMEGA/raw/master/hardware/photos/assembled_board.png)
+![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/pcb_photo.png)
 
 ## Assembled Board
 ![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/assembled_board.png)
