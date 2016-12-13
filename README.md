@@ -14,13 +14,17 @@ ISO14230 KWP2000 Fast Init
 SAE J1850 PWM   
 SAE J1850 VPW   
 Multi-Frame Support   
+Soft-controlled end-point matching resistors.
 
-Support for incomming CAN FD. (use MCP2517FD in place of MCP2515)  
+Support for incomming CAN FD. (use MCP2517FD in place of MCP2515) 
 
-## PCB Photo
+## v1.1 PCB 3D Photo   
+![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/pcb_3d_1.1.png)   
+
+## v1.0 PCB Photo
 ![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/pcb_photo.png)
 
-## Assembled Board
+## v1.0 Assembled Board
 ![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/assembled_board.png)
 
 
