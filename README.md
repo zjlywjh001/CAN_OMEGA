@@ -18,8 +18,8 @@ Soft-controlled end-point matching resistors.
 
 Support for incomming CAN FD. (use MCP2517FD in place of MCP2515) 
 
-## v1.1 PCB 3D Photo   
-![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/pcb_3d_1.1.png)   
+## v1.1 PCB Photo   
+![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/pcb_photo_1.1.png)   
 
 ## v1.0 PCB Photo
 ![image](https://raw.githubusercontent.com/zjlywjh001/CAN_OMEGA/master/hardware/photos/pcb_photo.png)
