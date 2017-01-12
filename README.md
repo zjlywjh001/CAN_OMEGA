@@ -196,11 +196,13 @@ jv [len] [Data] [CR]  -- Send J1850 Packet in VPW Mode
 
 U[CR] --- Reboot and enter bootloader   
 Notice:  
-When Entering Bootloader it will wait for 3 seconds for another 'U' char. When Received 'U' with in 3 seconds, the bootloader will start firmware update function.   
+When Entering Bootloader it will wait for 3 seconds for another 'U' char. When Received 'U' with in 3 seconds, the bootloader will start firmware update function.    
 
+Following Commands are available in CAN Omega 1.1 or later hardware only.   
 
+A[CR] --- Set Terminal Resistor to Open Circuit (Default on boot)   
 
-
+a[CR] --- Set Terminal Resistor to 120-Ohms   
 
 
 ## License  
